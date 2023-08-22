@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Junaid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/IamVicky90"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;AIOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/IamVicky90"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;AIOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me

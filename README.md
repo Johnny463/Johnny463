@@ -6,7 +6,7 @@
 ## :sassy_man:  About me
 - Bachlor's in Computer Science from `COMSATS University` | Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
 - Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, Proficient in Data Science with focus on challenging businesses problems.
-- Resume Link https://drive.google.com/file/d/1VA9x8wclrd8g59m_IfMw9_bxbiNKvtRF/view?usp=share_link
+
 ### Technology Stacks:
 - Core/In-depth/Practical Knowledge in:
 1) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.

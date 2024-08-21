@@ -29,7 +29,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamVicky90&theme=algolia" alt="Vicky" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Johnny463&theme=algolia" alt="Vicky" /></p>
 
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
